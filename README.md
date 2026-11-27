@@ -4,7 +4,7 @@ Proposition commerciale interactive destinée au comité de direction de Bellang
 
 ## Ouvrir la proposition
 
-Téléchargez `index.html` et ouvrez-le dans un navigateur. Le fichier contient l’application, le logo AXEM IA et le dessin de chantier. Les filtres, les curseurs et le comparatif fonctionnent aussi hors connexion.
+Accéder directement au site déployé [AXEM IA x Bellanger Construction](https://axemiabellangerconstruction.vercel.app/) ou téléchargez `index.html` et ouvrez-le dans un navigateur. Le fichier contient l’application, le logo AXEM IA et le dessin de chantier. Les filtres, les curseurs et le comparatif fonctionnent aussi hors connexion.
 
 ## Utiliser la page en comité de direction
 
